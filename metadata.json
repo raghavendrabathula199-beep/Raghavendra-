@@ -1,0 +1,6 @@
+{
+  "name": "BuildMat India 2026",
+  "description": "Comprehensive 2026 Building Materials Price List & Multi-Language Guide for India with 100+ materials, 1,000 sq.ft cost estimator, and market procurement tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
